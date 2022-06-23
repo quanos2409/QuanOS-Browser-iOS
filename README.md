@@ -8,6 +8,9 @@ https://user-images.githubusercontent.com/107976829/175189946-03424eae-0a18-4842
 
 Easy installation
 -Download the zip files in release
--Extract
+
+-Extract\
+
 -If you upgrade from QuanOS Browser12 Developer please choose ExpressUpgrade
+
 -If you on stable version please choose setup
