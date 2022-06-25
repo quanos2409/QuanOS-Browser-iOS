@@ -3,6 +3,9 @@ A web browser designed for iOS,simple design and more
 
 Latest version(pre-release) 13
 
+![Quanos Browser 13](https://user-images.githubusercontent.com/107976829/175765240-13be212f-e0f6-4705-bd82-eb53c7465cb8.png)
+
+
 QuanOS Browser13 Teaster
 https://user-images.githubusercontent.com/107976829/175189946-03424eae-0a18-4842-8571-16c4d6a53f09.mp4
 
