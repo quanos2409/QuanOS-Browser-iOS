@@ -17,3 +17,9 @@ Easy installation
 -If you upgrade from QuanOS Browser12 Developer please choose ExpressUpgrade
 
 -If you on stable version please choose setup
+
+#Contacts
+If you having problem while using QuanOS pre-release software contact:
+
+toolquanossuuport@gmail.com
+
