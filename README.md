@@ -18,7 +18,7 @@ Easy installation
 
 -If you on stable version please choose setup
 
-#Contacts
+# Contacts
 
 If you having problem while using QuanOS pre-release software contact:
 
