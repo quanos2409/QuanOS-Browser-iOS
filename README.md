@@ -1,6 +1,9 @@
 # QuanOS-Browser-iOS
 A web browser designed for iOS,simple design and more
 
+The unknown builds may not stable
+
+
 Latest version(pre-release) 13 v2
 
 ![Quanos Browser 13](https://user-images.githubusercontent.com/107976829/175765240-13be212f-e0f6-4705-bd82-eb53c7465cb8.png)
