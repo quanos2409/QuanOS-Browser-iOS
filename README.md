@@ -10,6 +10,8 @@ Latest version:13 (newLVL.2022071210)
 
 QuanOS Browser13 is released! Download stable now
 
+https://github.com/quanos2409/QuanOS-Browser-iOS/releases/tag/v13.0
+
 QuanOS Browser13 Teaster:
 https://youtu.be/xnx4G5S1guA
 
