@@ -44,3 +44,7 @@ toolquanossuuport@gmail.com
 -Press copy to shortcuts
 
 -Comeback to Shortcuts and then run
+
+
+You can not install?(iOS 13 or newer)
+Go to: Settings > Shortcuts > Turn on Untrusted Shortcuts
