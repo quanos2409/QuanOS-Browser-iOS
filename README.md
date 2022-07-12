@@ -18,7 +18,7 @@ https://youtu.be/xnx4G5S1guA
 Easy installation
 -Download the zip files in release
 
--Extract\
+-Extract
 
 -If you upgrade from QuanOS Browser12 Developer please choose ExpressUpgrade
 
@@ -30,3 +30,17 @@ If you having problem while using QuanOS pre-release software contact:
 
 toolquanossuuport@gmail.com
 
+# Pre-release Installation & Upgrade
+-Download the Pre-release version zip files
+
+-Extract
+
+-If you are running from QuanOS Browser stable version run setup
+
+-If you are running QuanOS Browser Developer version choose ExpressUpgrade
+
+-Press the share button from the bottom of the right
+
+-Press copy to shortcuts
+
+-Comeback to Shortcuts and then run
