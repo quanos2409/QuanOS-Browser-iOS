@@ -4,16 +4,10 @@ A web browser designed for iOS,simple design and more
 The unknown builds may not stable
 
 
-Latest version:13 (newLVL.2022071210)
+Latest version (Alpha): 14.0
 
-![Quanos Browser 13](https://user-images.githubusercontent.com/107976829/175765240-13be212f-e0f6-4705-bd82-eb53c7465cb8.png)
+![QuanOS Browser14 (1)](https://user-images.githubusercontent.com/107976829/180179538-a4f776bd-5a36-4bee-b625-3befab7d2abf.png)
 
-QuanOS Browser13 is released! Download stable now
-
-https://github.com/quanos2409/QuanOS-Browser-iOS/releases/tag/v13.0
-
-QuanOS Browser13 Teaster:
-https://youtu.be/xnx4G5S1guA
 
 Easy installation
 -Download the zip files in release
