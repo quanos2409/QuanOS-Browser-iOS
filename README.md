@@ -1,12 +1,12 @@
+###We're back###
+After a 9 months sleep
+
+
 # QuanOS-Browser-iOS
 A web browser designed for iOS,simple design and more
 
 The unknown builds may not stable
-
-
-Latest version : 14.1
-
-![QuanOS Browser14 (1)](https://user-images.githubusercontent.com/107976829/180179538-a4f776bd-5a36-4bee-b625-3befab7d2abf.png)
+QuanOS Browser now have LTS branch!
 
 
 Easy installation
